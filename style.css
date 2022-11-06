@@ -5,7 +5,7 @@ body {
     margin: auto;         /* 마진 auto - 내용을 화면 가운데 맞추기 위해  */
     font-family: "Noto Sans KR", "Nanum Gothic";        /* 글꼴 - 웹 폰트 */
     font-size:14px;     /* 글자 크기 */
-    line-height: 250%
+    line-height: 180%
 }
 
 h1 {
